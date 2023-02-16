@@ -17,6 +17,7 @@
   <img align="center" alt="tataReact" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="tataPython" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="tataSql" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png">
+  <img align="center" alt="tataFigma" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
 
 
   
