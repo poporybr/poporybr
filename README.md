@@ -18,6 +18,8 @@
   <img align="center" alt="tataPython" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="tataSql" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png">
   <img align="center" alt="tataFigma" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+  <img align="center" alt="tataFigma" height="30" width="40" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png"
+  
 
 
   
