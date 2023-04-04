@@ -1,7 +1,6 @@
 ### Olá, meu nome é Eduardo👋
 
 - 🔭 DEV Full-Stack Jr.
-- :rocket: Desenvolvimento Full Stack - Resília 
 
 
 <div align="start">
